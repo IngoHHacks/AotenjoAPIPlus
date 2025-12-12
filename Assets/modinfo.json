@@ -1,0 +1,7 @@
+{
+    "modID":"ingoh.Aotenjo.api_plus",
+    "name":"Aotenjo API+",
+    "author":"IngoH",
+    "description":"Supplementary API for things not in the official API (yet)",
+    "version":"1.0.0"
+}
